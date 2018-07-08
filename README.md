@@ -24,3 +24,11 @@ Repository to share progress of 100daysofmlcode challenge by [Siraj Raval](https
 3. **Locate a Dataset:** [Boston Housing](Data/Day 1 - Linear Regression - Boston Housing Prices/USA_Housing.csv)
 4. **Apply AI to Data:** Linear Regression in Tensorflow
 5. **Create a Solution:** [Solution](Day3/first_steps_with_tensor_flow.ipynb)
+
+## Day4
+
+1. **Pick an industry:** Health Care
+2. **Find a problem:** Predict breast cancer class.
+3. **Locate a Dataset:** [Boston Housing](Data/Day 4 - KNN - Breast Cancer/breast-cancer-wisconsinclean.csv)
+4. **Apply AI to Data:** KNN in sklearn
+5. **Create a Solution:** [Solution](Day4/Day4 - KNN.ipynb)
