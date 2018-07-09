@@ -32,3 +32,7 @@ Repository to share progress of 100daysofmlcode challenge by [Siraj Raval](https
 3. **Locate a Dataset:** [Wisconsin Breast Cancer](Data/Day%204%20-%20KNN%20-%20Breast%20Cancer/breast-cancer-wisconsinclean.csv)
 4. **Apply AI to Data:** KNN in sklearn
 5. **Create a Solution:** [Solution](Day4/Day4%20-%20KNN.ipynb)
+
+## Day5
+
+No code today. Binge watchi 3Blue1Brown complete neural netweork [playlist](http://www.3blue1brown.com/videos/2017/10/9/neural-network).
