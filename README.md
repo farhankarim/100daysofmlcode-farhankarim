@@ -36,3 +36,13 @@ Repository to share progress of 100daysofmlcode challenge by [Siraj Raval](https
 ## Day5
 
 No code today. Binge watchi 3Blue1Brown complete neural netweork [playlist](http://www.3blue1brown.com/videos/2017/10/9/neural-network).
+
+
+## Day6
+
+1. **Pick an industry:** Banking
+2. **Find a problem:** Analyze Lending Club's issued loans.
+3. **Locate a Dataset:** [Cleaned and Reduced Loan Data](Data/Day%206%20-%20DT%20and%20Random%20Forest%20-%20Lending%20Club/loan_data.csv)
+4. **Apply AI to Data:** KNN in sklearn
+5. **Create a Solution:** [Solution](Day6/Day%206%20-%20DT%20and%20Random%20Forests.ipynb)
+
