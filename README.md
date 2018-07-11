@@ -46,3 +46,11 @@ No code today. Binge watchi 3Blue1Brown complete neural netweork [playlist](http
 4. **Apply AI to Data:** Decision Tree and Random Forests in sklearn
 5. **Create a Solution:** [Solution](Day6/Day%206%20-%20DT%20and%20Random%20Forests.ipynb)
 
+## Day7
+
+1. **Pick an industry:** Agriculture
+2. **Find a problem:**  Predict type of iris plant.
+3. **Locate a Dataset:** [IRIS Seaborn](https://github.com/mwaskom/seaborn-data)
+4. **Apply AI to Data:** SVM in sklearn
+5. **Create a Solution:** [Solution](Day7/Day%207%20-%20SVM.ipynb)
+
