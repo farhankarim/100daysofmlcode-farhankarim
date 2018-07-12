@@ -54,3 +54,6 @@ No code today. Binge watchi 3Blue1Brown complete neural netweork [playlist](http
 4. **Apply AI to Data:** SVM in sklearn
 5. **Create a Solution:** [Solution](Day7/Day%207%20-%20SVM.ipynb)
 
+## Day8
+
+Started learning R. Completed course [Introduction to R](https://www.datacamp.com/courses/free-introduction-to-r) at DataCamp.
