@@ -1,5 +1,7 @@
 # 100daysofmlcode-farhankarim
-Repository to share progress of 100daysofmlcode challenge by [Siraj Raval](https://www.youtube.com/watch?v=cuQMBj1cWPo). I have taken up this challenge with a bit of a twist. Since i am fairly new to  DS/ML and have dedicated more than 5+ hours in studying per day .So, rather than spending 1 hour per day learning ML i will use that 1 hour to implement the topics i have learned that day in form of a Jupyter Notebook.
+Repository to share progress of 100daysofmlcode challenge by [Siraj Raval](https://www.youtube.com/watch?v=cuQMBj1cWPo). I have taken up this challenge with a bit of a twist. Since i am fairly new to  DS/ML and have dedicated more than 5+ hours in studying per day .So, rather than spending 1 hour per day learning ML i will use that 1 hour to implement the topics i have learned that day in Jupyter Notebook/R Studio.
+
+**Note**: For people asking me about Datacamp courses on [slack](https://programming-wizards.slack.com), you can have 2 months free access on Datacamp courses using your microsoft account. Sign-in your account and go to [Visual Studio Benifits](https://my.visualstudio.com), select activate under datacamp and fill the form.
 
 ## Day1
 
@@ -35,7 +37,7 @@ Repository to share progress of 100daysofmlcode challenge by [Siraj Raval](https
 
 ## Day5
 
-No code today. Binge watchi 3Blue1Brown complete neural netweork [playlist](http://www.3blue1brown.com/videos/2017/10/9/neural-network).
+No code today. Binge watch [3Blue1Brown](https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw) complete neural netweork [playlist](http://www.3blue1brown.com/videos/2017/10/9/neural-network).
 
 
 ## Day6
@@ -57,3 +59,7 @@ No code today. Binge watchi 3Blue1Brown complete neural netweork [playlist](http
 ## Day8
 
 Started learning R. Completed course [Introduction to R](https://www.datacamp.com/courses/free-introduction-to-r) at DataCamp.
+
+## Day9
+
+Completed chapter 1 exercises('Introduction to Data') in [Datacamp Data Analysis and Statistical Inference(FREE)](https://campus.datacamp.com/courses/statistical-inference-and-data-analysis) based on the book i am reading [OpenIntro Statistics(FREE)](https://www.openintro.org/stat/textbook.php).
