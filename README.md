@@ -63,3 +63,8 @@ Started learning R. Completed course [Introduction to R](https://www.datacamp.co
 ## Day9
 
 Completed chapter 1 exercises('Introduction to Data') in [Datacamp Data Analysis and Statistical Inference(FREE)](https://campus.datacamp.com/courses/statistical-inference-and-data-analysis) based on the book i am reading [OpenIntro Statistics(FREE)](https://www.openintro.org/stat/textbook.php).
+
+## Day10
+
+Completed chapter 3 exercises('Foundations for inference: Sampling distributions') and ('Foundations for inference: confidence intervals') in [Datacamp Data Analysis and Statistical Inference(FREE)](https://campus.datacamp.com/courses/statistical-inference-and-data-analysis) based on the book i am reading [OpenIntro Statistics(FREE)](https://www.openintro.org/stat/textbook.php).
+
