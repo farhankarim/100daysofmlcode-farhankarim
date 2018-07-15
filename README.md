@@ -68,3 +68,10 @@ Completed chapter 1 exercises('Introduction to Data') in [Datacamp Data Analysis
 
 Completed chapter 3 exercises('Foundations for inference: Sampling distributions') and ('Foundations for inference: confidence intervals') in [Datacamp Data Analysis and Statistical Inference(FREE)](https://campus.datacamp.com/courses/statistical-inference-and-data-analysis) based on the book i am reading [OpenIntro Statistics(FREE)](https://www.openintro.org/stat/textbook.php).
 
+## Day11
+
+1. **Pick an industry:** Medicine
+2. **Find a problem:** Predict diabetes of patients.
+3. **Locate a Dataset:** [Diabetes](Data/Day%2011%20-%20NN%20-%20Diabetes/pima-indians-diabetes.csv)
+4. **Apply AI to Data:** Logistic Regression in sklearn
+5. **Create a Solution:** [Solution](Day%2011%20-%20NN%20Basics%20Keras.ipynb)
