@@ -83,3 +83,7 @@ Ditched R, I hate it's syntax and  simplicity :stuck_out_tongue_winking_eye:. Co
 ## Day13
 
 Completed module 3 and 4 of course [Deep Learning Fundamentals](https://cognitiveclass.ai/courses/introduction-deep-learning/) at [Cognitive Class](https://courses.cognitiveclass.ai/register)
+
+## Day14
+
+Completed chapter 1 and 2 of [Statistical Thinking in Python (Part 1 - Datacamp)](datacamp.com/courses/statistical-thinking-in-python-part-1)
