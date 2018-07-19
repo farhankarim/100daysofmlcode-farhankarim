@@ -87,3 +87,7 @@ Completed module 3 and 4 of course [Deep Learning Fundamentals](https://cognitiv
 ## Day14
 
 Completed chapter 1 and 2 of [Statistical Thinking in Python (Part 1 - Datacamp)](datacamp.com/courses/statistical-thinking-in-python-part-1)
+
+## Day15
+
+Completed [Statistical Thinking in Python (Part 1 - Datacamp)](datacamp.com/courses/statistical-thinking-in-python-part-1)
