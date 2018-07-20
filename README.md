@@ -1,5 +1,5 @@
 # 100daysofmlcode-farhankarim
-Repository to share progress of 100daysofmlcode challenge by [Siraj Raval](https://www.youtube.com/watch?v=cuQMBj1cWPo). I have taken up this challenge with a bit of a twist. Since i am fairly new to  DS/ML and have dedicated more than 5+ hours in studying per day .So, rather than spending 1 hour per day learning ML i will use that 1 hour to implement the topics i have learned that day in Jupyter Notebook/R Studio.
+Repository to share progress of 100daysofmlcode challenge by [Siraj Raval](https://www.youtube.com/watch?v=cuQMBj1cWPo). I have taken up this challenge with a bit of a twist. Since i am fairly new to  DS/ML and have dedicated more than 5+ hours in studying per day .So, rather than spending 1 hour per day learning ML i will use that 1 hour to implement the topics i have learned that day in Jupyter Notebook or doing something related to DS/ML (reading,watching conference videos,tutorials,answering [quora](https://www.quora.com/profile/Farhan-Karim-16) questions etc).
 
 **Note**: For people asking me about Datacamp courses on [slack](https://programming-wizards.slack.com), you can have 2 months free access on Datacamp courses using your microsoft account. Sign-in your account and go to [Visual Studio Benifits](https://my.visualstudio.com), select activate under datacamp and fill the form.
 
@@ -91,3 +91,7 @@ Completed chapter 1 and 2 of [Statistical Thinking in Python (Part 1 - Datacamp)
 ## Day15
 
 Completed [Statistical Thinking in Python (Part 1 - Datacamp)](datacamp.com/courses/statistical-thinking-in-python-part-1)
+
+## Day16
+
+Completed chapter 1 of book [Deep Learning by Ian Goodfellow(FREE)](http://www.deeplearningbook.org/)
