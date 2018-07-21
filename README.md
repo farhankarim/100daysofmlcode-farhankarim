@@ -95,3 +95,7 @@ Completed [Statistical Thinking in Python (Part 1 - Datacamp)](datacamp.com/cour
 ## Day16
 
 Completed chapter 1 of book [Deep Learning by Ian Goodfellow(FREE)](http://www.deeplearningbook.org/)
+
+## Day17
+
+Completed chapter 4 the book i am reading [OpenIntro Statistics(FREE)](https://www.openintro.org/stat/textbook.php).Taking some time off from algorithms.Learning the detailed math behind all the algorithms worked on above.
