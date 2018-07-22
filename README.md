@@ -98,4 +98,8 @@ Completed chapter 1 of book [Deep Learning by Ian Goodfellow(FREE)](http://www.d
 
 ## Day17
 
-Completed chapter 4 the book i am reading [OpenIntro Statistics(FREE)](https://www.openintro.org/stat/textbook.php).Taking some time off from algorithms.Learning the detailed math behind all the algorithms worked on above.
+Completed chapter 4 from the book i am reading [OpenIntro Statistics(FREE)](https://www.openintro.org/stat/textbook.php).Taking some time off from algorithms.Learning the detailed math behind all the algorithms worked on above.
+
+## Day18
+
+Completed chapter 2 from the book i am reading [An Introduction to Statistical Learning with Applications in R by James, G](https://www.springer.com/gp/book/9781461471370).Pre-work for learning math behind linear regression.
