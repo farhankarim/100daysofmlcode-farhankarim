@@ -103,3 +103,7 @@ Completed chapter 4 from the book i am reading [OpenIntro Statistics(FREE)](http
 ## Day18
 
 Completed chapter 2 from the book i am reading [An Introduction to Statistical Learning with Applications in R by James, G](https://www.springer.com/gp/book/9781461471370).Pre-work for learning math behind linear regression.
+
+## Day19
+
+Completed chapter 3 from the book i am reading [An Introduction to Statistical Learning with Applications in R by James, G](https://www.springer.com/gp/book/9781461471370).Pre-work for learning math behind linear regression.
