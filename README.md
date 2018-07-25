@@ -102,8 +102,21 @@ Completed chapter 4 from the book i am reading [OpenIntro Statistics(FREE)](http
 
 ## Day18
 
-Completed chapter 2 from the book i am reading [An Introduction to Statistical Learning with Applications in R by James, G](https://www.springer.com/gp/book/9781461471370).Pre-work for learning math behind linear regression.
+Completed chapter 2 from the book i am reading [An Introduction to Statistical Learning with Applications in R by James, G](https://www.springer.com/gp/book/9781461471370).Pre-work for learning math behind ML Algorithms.
 
 ## Day19
 
-Completed chapter 3 from the book i am reading [An Introduction to Statistical Learning with Applications in R by James, G](https://www.springer.com/gp/book/9781461471370).Pre-work for learning math behind linear regression.
+Completed chapter 3 from the book i am reading [An Introduction to Statistical Learning with Applications in R by James, G](https://www.springer.com/gp/book/9781461471370).Pre-work for learning math behind ML Algorithms.
+
+## Day20
+
+Understanding the math behind Linear Regression from: 
+- [Chapter 7 of OpenIntro](https://drive.google.com/file/d/0B-DHaDEbiOGkc1RycUtIcUtIelE/view) theory only.
+- [Linear Regression Algorithm in Python | Edureka](https://youtu.be/E5RjzSK0fvY?t=1449) with code and explaination.
+
+## Day21
+
+Understanding the math behind Logistic Regression from: 
+- [Chapter 8 of OpenIntro](https://drive.google.com/file/d/0B-DHaDEbiOGkc1RycUtIcUtIelE/view) theory only.
+- [Logistic Regression - The Math of Intelligence (Week 2)| Siraj The Unicorn](https://www.youtube.com/watch?v=D8alok2P468) with code and explaination.
+
