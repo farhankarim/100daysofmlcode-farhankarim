@@ -120,3 +120,8 @@ Understanding the math behind Logistic Regression from:
 - [Chapter 8 of OpenIntro](https://drive.google.com/file/d/0B-DHaDEbiOGkc1RycUtIcUtIelE/view) theory only.
 - [Logistic Regression - The Math of Intelligence (Week 2)| Siraj The Unicorn](https://www.youtube.com/watch?v=D8alok2P468) with code and explaination.
 
+## Day22
+
+Understanding the math behind Naive Bayes from: 
+- [Probability Theory - The Math of Intelligence #6 | Siraj The Unicorn](https://www.youtube.com/watch?v=PrkiRVcrxOs) with code and explaination.
+- [Naive Bayes Classifier in Python | Edureka](https://www.youtube.com/watch?v=vz_xuxYS2PM) with code and explaination.
