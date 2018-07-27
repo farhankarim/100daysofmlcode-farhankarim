@@ -125,3 +125,8 @@ Understanding the math behind Logistic Regression from:
 Understanding the math behind Naive Bayes from: 
 - [Probability Theory - The Math of Intelligence #6 | Siraj The Unicorn](https://www.youtube.com/watch?v=PrkiRVcrxOs) with code and explaination.
 - [Naive Bayes Classifier in Python | Edureka](https://www.youtube.com/watch?v=vz_xuxYS2PM) with code and explaination.
+
+## Day23
+
+Understanding the math behind K-Mean Clustering and Random Forests chapters 7 and 8: 
+- [Learning Predictive Analytics with Python By Ashish Kumar PACKT](https://www.google.com.pk/search?q=asish+kumar+packt&oq=asish+kumar+packt&aqs=chrome..69i57.4985j0j7&client=ubuntu&sourceid=chrome&ie=UTF-8) with code and explaination.
