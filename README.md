@@ -130,3 +130,8 @@ Understanding the math behind Naive Bayes from:
 
 Understanding the math behind K-Mean Clustering and Random Forests chapters 7 and 8: 
 - [Learning Predictive Analytics with Python By Ashish Kumar PACKT](https://www.google.com.pk/search?q=asish+kumar+packt&oq=asish+kumar+packt&aqs=chrome..69i57.4985j0j7&client=ubuntu&sourceid=chrome&ie=UTF-8) with code and explaination.
+
+## Day24
+
+Understanding the math behind SVM's chapter 9: 
+- [Learning Predictive Analytics with Python By Ashish Kumar PACKT](https://www.google.com.pk/search?q=asish+kumar+packt&oq=asish+kumar+packt&aqs=chrome..69i57.4985j0j7&client=ubuntu&sourceid=chrome&ie=UTF-8) with code and explaination.
