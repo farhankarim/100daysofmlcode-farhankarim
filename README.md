@@ -135,3 +135,11 @@ Understanding the math behind K-Mean Clustering and Random Forests chapters 7 an
 
 Understanding the math behind SVM's chapter 9: 
 - [Learning Predictive Analytics with Python By Ashish Kumar PACKT](https://www.google.com.pk/search?q=asish+kumar+packt&oq=asish+kumar+packt&aqs=chrome..69i57.4985j0j7&client=ubuntu&sourceid=chrome&ie=UTF-8) with code and explaination.
+
+## Day 25
+
+Started coursera course [ntroduction to Probability and Data by Duke University](https://www.coursera.org/learn/probability-intro).
+
+## Day 26
+
+Completed coursera course [ntroduction to Probability and Data by Duke University](https://www.coursera.org/learn/probability-intro).
