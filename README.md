@@ -138,8 +138,12 @@ Understanding the math behind SVM's chapter 9:
 
 ## Day 25
 
-Started coursera course [ntroduction to Probability and Data by Duke University](https://www.coursera.org/learn/probability-intro).
+Started coursera course [Introduction to Probability and Data by Duke University](https://www.coursera.org/learn/probability-intro).
 
 ## Day 26
 
-Completed coursera course [ntroduction to Probability and Data by Duke University](https://www.coursera.org/learn/probability-intro).
+Completed coursera course [Introduction to Probability and Data by Duke University](https://www.coursera.org/learn/probability-intro).
+
+## Day 27
+
+Understanding how [backpropogation algorithm](https://www.youtube.com/watch?v=XdM6ER7zTLk) works in calculating gradient of loss function with code and explaination.
