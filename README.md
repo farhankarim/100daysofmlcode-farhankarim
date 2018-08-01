@@ -150,5 +150,4 @@ Understanding how [backpropogation algorithm](https://www.youtube.com/watch?v=Xd
 
 ## Day 28
 
-Understanding [Loss Functions and different Optimization Algorithms](https://www.youtube.com/watch?v=IVVVjBSk9N0)
-(https://www.youtube.com/watch?v=XdM6ER7zTLk) with code and explaination.
+Understanding [Loss Functions and different Optimization Algorithms](https://www.youtube.com/watch?v=IVVVjBSk9N0) with code and explaination.
