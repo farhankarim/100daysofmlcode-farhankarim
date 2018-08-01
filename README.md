@@ -147,3 +147,8 @@ Completed coursera course [Introduction to Probability and Data by Duke Universi
 ## Day 27
 
 Understanding how [backpropogation algorithm](https://www.youtube.com/watch?v=XdM6ER7zTLk) works in calculating gradient of loss function with code and explaination.
+
+## Day 28
+
+Understanding [Loss Functions and different Optimization Algorithms](https://www.youtube.com/watch?v=IVVVjBSk9N0)
+(https://www.youtube.com/watch?v=XdM6ER7zTLk) with code and explaination.
