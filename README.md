@@ -151,3 +151,11 @@ Understanding how [backpropogation algorithm](https://www.youtube.com/watch?v=Xd
 ## Day 28
 
 Understanding [Loss Functions and different Optimization Algorithms](https://www.youtube.com/watch?v=IVVVjBSk9N0) with code and explaination.
+
+## Day 29
+
+Watching videos i missed from [Metis - Demystifying Data Science conference](https://www.thisismetis.com/demystifying-data-science-recordings/2018?utm_source=pardot&utm_medium=email&utm_campaign=ddsauto&utm_content=list).
+
+## Day 30
+
+Watching videos i missed from [Metis - Demystifying Data Science conference](https://www.thisismetis.com/demystifying-data-science-recordings/2018?utm_source=pardot&utm_medium=email&utm_campaign=ddsauto&utm_content=list).
