@@ -159,3 +159,7 @@ Watching videos i missed from [Metis - Demystifying Data Science conference](htt
 ## Day 30
 
 Watching videos i missed from [Metis - Demystifying Data Science conference](https://www.thisismetis.com/demystifying-data-science-recordings/2018?utm_source=pardot&utm_medium=email&utm_campaign=ddsauto&utm_content=list).
+
+## Day 30
+
+STILL WATCHING videos i missed from [Metis - Demystifying Data Science conference](https://www.thisismetis.com/demystifying-data-science-recordings/2018?utm_source=pardot&utm_medium=email&utm_campaign=ddsauto&utm_content=list).SO MANY! 😅😅😅
