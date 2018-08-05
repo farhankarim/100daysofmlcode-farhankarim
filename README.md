@@ -163,3 +163,14 @@ Watching videos i missed from [Metis - Demystifying Data Science conference](htt
 ## Day 31
 
 STILL WATCHING videos i missed from [Metis - Demystifying Data Science conference](https://www.thisismetis.com/demystifying-data-science-recordings/2018?utm_source=pardot&utm_medium=email&utm_campaign=ddsauto&utm_content=list).SO MANY! 😅😅😅
+
+## Day 32
+
+Just heard about a new course on DataCamp on [Analyzing Police Activity with pandas](https://www.datacamp.com/courses/analyzing-police-activity-with-pandas). Will start on day 33 after revision of pre-requisites today.
+
+&nbsp;&nbsp;**Pre-Requisites:**
+
+ - [pandas Foundations](https://www.datacamp.com/courses/pandas-foundations)
+ - [Manipulating DataFrames with pandas](https://www.datacamp.com/courses/manipulating-dataframes-with-pandas)
+ - [Merging DataFrames with pandas](https://www.datacamp.com/courses/merging-dataframes-with-pandas)
+ 
