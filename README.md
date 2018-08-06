@@ -174,3 +174,6 @@ Just heard about a new course on DataCamp on [Analyzing Police Activity with pan
  - [Manipulating DataFrames with pandas](https://www.datacamp.com/courses/manipulating-dataframes-with-pandas)
  - [Merging DataFrames with pandas](https://www.datacamp.com/courses/merging-dataframes-with-pandas)
  
+## Day 33
+
+Completed 2 of 3 pre-requisites for [Analyzing Police Activity with pandas](https://www.datacamp.com/courses/analyzing-police-activity-with-pandas).
