@@ -177,3 +177,7 @@ Just heard about a new course on DataCamp on [Analyzing Police Activity with pan
 ## Day 33
 
 Completed 2 of 3 pre-requisites for [Analyzing Police Activity with pandas](https://www.datacamp.com/courses/analyzing-police-activity-with-pandas).
+
+## Day 34
+
+Completed 3 of 3 pre-requisites for [Analyzing Police Activity with pandas](https://www.datacamp.com/courses/analyzing-police-activity-with-pandas).
