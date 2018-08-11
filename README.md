@@ -181,3 +181,7 @@ Completed 2 of 3 pre-requisites for [Analyzing Police Activity with pandas](http
 ## Day 34
 
 Completed 3 of 3 pre-requisites for [Analyzing Police Activity with pandas](https://www.datacamp.com/courses/analyzing-police-activity-with-pandas).
+
+## Day 35
+
+Started [Analyzing Police Activity with pandas](https://www.datacamp.com/courses/analyzing-police-activity-with-pandas).
