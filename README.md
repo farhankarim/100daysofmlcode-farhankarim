@@ -185,3 +185,14 @@ Completed 3 of 3 pre-requisites for [Analyzing Police Activity with pandas](http
 ## Day 35
 
 Started [Analyzing Police Activity with pandas](https://www.datacamp.com/courses/analyzing-police-activity-with-pandas).
+
+***
+## Day 36(should have been day 54 by now 😞😞)
+
+Took a long break due to studies, less motivation and learning web development.
+
+1. **Pick an industry:** Economic Statistics
+2. **Find a problem:** Income Class Prediction using TensorFlow.
+3. **Locate a Dataset:** [California Census Data](https://www.kaggle.com/farhankarim1/california-census-data)
+4. **Apply AI to Data:** Artificial Neural Networks
+5. **Create a Solution:** [Kaggle Notebook](https://www.kaggle.com/farhankarim1/income-class-prediction-using-tensorflow)
