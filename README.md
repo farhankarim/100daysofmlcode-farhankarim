@@ -196,3 +196,7 @@ Took a long break due to studies, less motivation and learning web development.
 3. **Locate a Dataset:** [California Census Data](https://www.kaggle.com/farhankarim1/california-census-data)
 4. **Apply AI to Data:** Artificial Neural Networks
 5. **Create a Solution:** [Kaggle Notebook](https://www.kaggle.com/farhankarim1/income-class-prediction-using-tensorflow)
+
+## Day 37
+
+Completed DataCamp course on [Intro to SQL for Data Science](https://www.datacamp.com/courses/intro-to-sql-for-data-science) as a pre-requisite for starting [Joining Data in PostgreSQL](https://www.datacamp.com/courses/joining-data-in-postgresql)
