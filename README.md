@@ -199,4 +199,8 @@ Took a long break due to studies, less motivation and learning web development.
 
 ## Day 37
 
-Completed DataCamp course on [Intro to SQL for Data Science](https://www.datacamp.com/courses/intro-to-sql-for-data-science) as a pre-requisite for starting [Joining Data in PostgreSQL](https://www.datacamp.com/courses/joining-data-in-postgresql)
+Completed DataCamp course on [Intro to SQL for Data Science](https://www.datacamp.com/courses/intro-to-sql-for-data-science) as a pre-requisite for starting [Joining Data in PostgreSQL](https://www.datacamp.com/courses/joining-data-in-postgresql).
+
+## Day 38
+
+Completed DataCamp course on [Joining Data in PostgreSQL](https://www.datacamp.com/courses/joining-data-in-postgresql).
