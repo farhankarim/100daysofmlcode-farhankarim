@@ -204,3 +204,7 @@ Completed DataCamp course on [Intro to SQL for Data Science](https://www.datacam
 ## Day 38
 
 Completed DataCamp course on [Joining Data in PostgreSQL](https://www.datacamp.com/courses/joining-data-in-postgresql).
+
+## Day 39
+
+Follow along Taxi Trip Duration challenge on kaggle using XGBoost [Taxi Trip Duration Kaggle Challenge (LIVE)](https://www.youtube.com/watch?v=suRd3UzdBeo&t=2117s).
