@@ -212,3 +212,8 @@ Follow along Taxi Trip Duration challenge on kaggle using XGBoost [Taxi Trip Dur
 ## Day 40
 
 Completed Taxi Trip Duration challenge on kaggle using XGBoost [Taxi Trip Duration Kaggle Challenge (LIVE)](https://www.youtube.com/watch?v=suRd3UzdBeo&t=2117s).
+
+## Day 41-45
+
+Completed Sections 1-10 [Advanced Machine Learning & Data Analysis Projects Bootcamp](https://www.udemy.com/machinelearning-dataanalysis-mammothinteractive/learn/v4/content)
+
