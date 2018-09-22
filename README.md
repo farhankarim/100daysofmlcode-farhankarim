@@ -222,7 +222,7 @@ Completed Sections 1-10 [Advanced Machine Learning & Data Analysis Projects Boot
 Started following [Become an AI and Machine Learning Specialist: Part I](https://www.linkedin.com/learning/paths/become-an-ai-and-machine-learning-specialist-part-i).
 
 - [Artificial Intelligence Foundations: Thinking Machines](https://www.linkedin.com/learning/artificial-intelligence-foundations-thinking-machines) (COMPLETED ON DAY 46)
-- [Introducing core concepts of recommendation systems](https://www.linkedin.com/learning/building-a-recommendation-system-with-python-machine-learning-ai) (IN PROGRESS DAY 47-)
+- [Introducing core concepts of recommendation systems](https://www.linkedin.com/learning/building-a-recommendation-system-with-python-machine-learning-ai) (COMPLETED ON DAY 47-50)
 - [The Essential Elements of Predictive Analytics and Data Mining](https://www.linkedin.com/learning/the-essential-elements-of-predictive-analytics-and-data-mining)
 - [Machine Learning & AI Foundations: Value Estimations](https://www.linkedin.com/learning/machine-learning-ai-foundations-value-estimations)
 - [Machine Learning & AI Foundations: Recommendations](https://www.linkedin.com/learning/machine-learning-ai-foundations-recommendations)
